@@ -129,7 +129,8 @@ o	Create a dashboard that visualizes the insights found in Excel and SQL.
 
 The dashboard should include a sales overview, top-performing products, and regional breakdowns. 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/95e70dee-c3eb-4edf-9bbd-a5e3f24e1217)
+
 
 
      
