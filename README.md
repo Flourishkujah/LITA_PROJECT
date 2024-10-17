@@ -1,21 +1,37 @@
 # LITA_PROJECT
-## Project 1: Sales Performance Analysis for a Retail Store 
+# Project 1: Sales Performance Analysis for a Retail Store 
 ---
 
-### SUMMARY: 
+## SUMMARY: 
 In this project, your objective is to analyze the sales performance of a retail store. You will investigate the sales data to identify important insights, including top-selling products, regional performance, and monthly sales patterns. The final goal is to create an interactive Power BI dashboard that visually presents these findings.
 
 **Instructions:**
 
-1. **Excel:**
+## 1. **Excel:**
 
    ![EXCEL SALES](https://github.com/user-attachments/assets/ea5fa5be-203a-4dab-89f5-24ce58acb54c)
 
     - Start by exploring the sales data. Use pivot tables to summarize total sales by product, region, and month.
+    
+    ![PIVOT 1](https://github.com/user-attachments/assets/3dd8920e-ce99-4f85-b2e6-97cf3321b1da)
+
+   
    - Apply Excel formulas to calculate key metrics like average sales per product and total revenue by region.
-   - Generate additional reports or insights that might be useful.
+
+     Average sales per product
      
-     ### 2.	SQL: 
+![EXCEL SALES PIVOT 2](https://github.com/user-attachments/assets/60a7abdc-c04d-498c-ba1e-4ae34e95e528)
+
+Total revenue by region
+
+![image](https://github.com/user-attachments/assets/8fd28ea0-6e17-4a15-9e0e-910e03634b6b)
+
+
+   - Generate additional reports or insights that might be useful.
+     ![EXCEL SALES PIVOT 3](https://github.com/user-attachments/assets/63d9fe4f-ab39-40ee-9f9f-3998f56e1f93)
+
+    
+     ## 2.	SQL: 
 Hint – You need to load the dataset into your SQL Server environment to write and validate your queries. 
 
 Write queries to extract key insights based on the following questions.  
