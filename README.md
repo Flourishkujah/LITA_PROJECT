@@ -123,6 +123,13 @@ WHERE Product NOT IN (
 
 
 ## 3.	Power BI: 
-o	Create a dashboard that visualizes the insights found in Excel and SQL. The dashboard should include a sales overview, top-performing products, and regional breakdowns. 
+o	Create a dashboard that visualizes the insights found in Excel and SQL. 
+
+![image](https://github.com/user-attachments/assets/2d492d81-28e0-4495-bb5b-d44dd5966d3e)
+
+The dashboard should include a sales overview, top-performing products, and regional breakdowns. 
+
+![Uploading image.png…]()
+
 
      
